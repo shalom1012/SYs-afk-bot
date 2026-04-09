@@ -77,7 +77,7 @@
     "webhookUrl": "https://discord.com/channels/1491814686503731241/1491814687904497716",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
