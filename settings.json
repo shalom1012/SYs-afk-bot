@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Thegalaxyai.aternos.me:16978",
+    "ip": "Thegalaxyai.aternos.me",
     "port": 16978,
     "version": "",
     "try-creative": false
