@@ -73,11 +73,11 @@
     "place-night": false
   },
   "discord": {
-    "enabled": true,
-    "webhookUrl": "https://discord.com/channels/1491814686503731241/1491814687904497716",
+    "enabled": false,
+    "webhookUrl": "",
     "events": {
       "connect": true,
-      "disconnect": false,
+      "disconnect": true,
       "chat": false
     }
   },
